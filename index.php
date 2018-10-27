@@ -1,6 +1,13 @@
 <?php
 
 require __DIR__.'/bootstrap.php';
+require __DIR__.'/vendor/autoload.php';
+
+//date_default_timezone_set('Asia/Taipei');
+
+use Carbon\Carbon;
+Carbon::setLocale('zh-tw');
+
 
 // connect to dabase
 try {
