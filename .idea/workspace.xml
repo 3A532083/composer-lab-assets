@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5174b93-f3e1-4d20-b6a4-44ba9ec924b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../auto" beforeDir="false" afterPath="$PROJECT_DIR$/../auto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo" beforeDir="false" afterPath="$PROJECT_DIR$/../demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../quickstart/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../quickstart/routes/web.php" afterDir="false" />
     </list>
@@ -23,27 +24,71 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="1" />
+          <entry key="json" value="1" />
+          <entry key="php" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="PHP" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="json" value="23" />
+          <entry key="php" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="23" />
+          <entry key="PHP" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bootstrap.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -52,8 +97,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="427" />
-    <option name="y" value="47" />
+    <option name="x" value="650" />
+    <option name="y" value="1" />
     <option name="width" value="1400" />
     <option name="height" value="1015" />
   </component>
@@ -70,6 +115,11 @@
             <path>
               <item name="composer-lab-assets" type="b2602c69:ProjectViewProjectNode" />
               <item name="composer-lab-assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="composer-lab-assets" type="b2602c69:ProjectViewProjectNode" />
+              <item name="composer-lab-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -104,15 +154,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540653760138</updated>
-      <workItem from="1540653813559" duration="914000" />
+      <workItem from="1540653813559" duration="2004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="914000" />
+    <option name="totallyTimeSpent" value="2004000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="427" y="47" width="1400" height="1015" extended-state="0" />
+    <frame x="650" y="1" width="1400" height="1015" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -144,7 +194,25 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bootstrap.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
